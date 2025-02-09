@@ -68,7 +68,7 @@ We welcome contributions! 🎉 Feel free to open an   issue   or submit a   pull
 This project is licensed under the   MIT License   - see the [LICENSE](LICENSE) file for details.
 
    📞 Contact
-📧 Reach out to   siddhipatel096@gmail.com  or connect on   [LinkedIn] https://www.linkedin.com/in/siddhipatel30/  for any queries or collaboration opportunities! 🤝
+📧 Reach out to   siddhipatel096@gmail.com  or connect on   https://www.linkedin.com/in/siddhipatel30/  for any queries or collaboration opportunities! 🤝
 
 ---
 🔥 *Developed with passion for Data Science and Machine Learning!* 🚀
